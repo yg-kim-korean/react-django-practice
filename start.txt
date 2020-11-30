@@ -1,6 +1,11 @@
+1 cmd
 pipenv shell
 cd leadmanager
 python manage.py runserver
+
+2 cmd
+pipenv shell
+npm run dev
 
 
 ---tip
