@@ -1,0 +1,7 @@
+pipenv shell
+cd leadmanager
+python manage.py runserver
+
+
+---tip
+es67 React/Redux Snippets (visual studio code expansion) --> make react js file -> rce + tab key --> boom!!
