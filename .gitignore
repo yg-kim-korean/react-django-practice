@@ -1,7 +1,7 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/react,django,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=react,django,visualstudiocode
-
+server_starter.bat
 ### Django ###
 *.log
 *.pot
