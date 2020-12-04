@@ -9,4 +9,5 @@ npm run dev
 
 
 ---tip
-es67 React/Redux Snippets (visual studio code expansion) --> make react js file -> rce + tab key --> boom!!
+ES7 React/Redux/GraphQL/React-Native snippets
+ (visual studio code expansion) --> make react js file -> rce + tab key --> boom!!
